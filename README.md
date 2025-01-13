@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a PhD student at Forschungszentrum Jülich. This is my first time on Github, so any and all suggestions are welcome!
+
 <!--
 **gprth/gprth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
